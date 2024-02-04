@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yAaNSzSs9FLkxe9etEyYhIBmluMagdCwAGzB2xDiUGU=",
+  "Source": "testProceduce",
+  "BasePath": "_content/testProceduce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
